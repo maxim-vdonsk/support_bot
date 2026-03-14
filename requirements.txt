@@ -1,0 +1,8 @@
+# Зависимости проекта
+# Установка: pip install -r requirements.txt
+
+# Библиотека для работы с Telegram Bot API (версия 20.x — асинхронная)
+python-telegram-bot==20.7
+
+# Загрузка переменных окружения из файла .env
+python-dotenv==1.0.0
